@@ -7,12 +7,8 @@
             "vida": 385,
             "poderes":"Salto con golpe de mazo",
             "panteon_o_coliseo": "No aparece",
-            "recompensas":
-                "Emblema de la Ciudad",
-                "Geo",
-                "Acceso a la Ciudad de L\u00e1grimas"
-                 
-            
+            "recompensas":"Emblema de la Ciudad"
+                
     },
     {
         "codigo": 1002,
@@ -20,14 +16,10 @@
             "lugar": "Cruces Olvidados",
             "image":"https://static.wikia.nocookie.net/hollowknight/images/b/bc/Gruz_Mother_Awake.png/revision/latest/scale-to-width/360?cb=20181124144430",
             "vida": 300,
-            "poderes": 
-                "Carga en el aire",
-                "Explosi\u00f3n de Gruzzers"
-            ,
+            "poderes":"Carga en el aire",
             "panteon_o_coliseo": "No aparece",
-            "recompensas": 
-                "Geo",
-                "Acceso a nuevas \u00e1reas"
+            "recompensas": "Geo"
+                
             
     },
     {
@@ -36,15 +28,10 @@
         "image":"https://static.wikia.nocookie.net/hollowknight/images/9/90/B_Lesser_Mawlek.png/revision/latest?cb=20180125123646&path-prefix=es",
         "lugar": "Tierras Asoladas",
         "vida": 480,
-        "poderes": 
-            "Escupir \u00e1cido",
-            "Ataque con garras",
-            "Salto r\u00e1pido"
-        ,
+        "poderes":"Escupir",
         "panteon_o_coliseo": "No aparece",
-        "recompensas": 
-            "Fragmento de M\u00e1scara",
-            "Geo"
+        "recompensas": "Fragmento de M\u00e1scara"
+
         
     },
     {
@@ -53,14 +40,9 @@
             "image":"https://static.wikia.nocookie.net/hollowknight/images/1/16/Hornet_Idle.png/revision/latest/scale-to-width/360?cb=20181124144744",
             "lugar": "Sendero Verde",
             "vida": 225,
-            "poderes": 
-                "Ataque con aguja",
-                "Proyectiles de seda",
-                "Salto r\u00e1pido"
-            ,
+            "poderes": "Ataque con aguja",
             "panteon_o_coliseo": "Pante\u00f3n del Maestro",
-            "recompensas": 
-                "Manto del Rey (habilita el Dash Corto)"
+            "recompensas": "Manto del Rey (habilita el Dash Corto)"
             
     },
     {
@@ -69,14 +51,10 @@
             "image":"https://static.wikia.nocookie.net/hollowknight/images/0/0e/B_Dung_Defender.png/revision/latest?cb=20180821144213",
             "lugar": "Cloacas Reales",
             "vida": 700,
-            "poderes": 
-                "Lanzamiento de bolas de esti\u00e9rcol",
-                "Sumersi\u00f3n en el suelo"
-            ,
+            "poderes": "Lanzamiento de bolas de esti",
             "panteon_o_coliseo": "Pante\u00f3n del Caballero",
-            "recompensas": 
-                "Amuleto del Defensor del Esti\u00e9rcol",
-                "Geo"
+            "recompensas":"Amuleto del Defensor del Esti\u00e9rcol"
+
             
     },
     {
@@ -85,14 +63,10 @@
             "image":"https://static.wikia.nocookie.net/hollowknight/images/1/1b/B_Flukemarm.png/revision/latest/scale-to-width/360?cb=20170412131642",
             "lugar": "Cloacas Reales",
             "vida": 450,
-            "poderes": 
-                "Invoca Flukes",
-                "Saliva corrosiva"
-            ,
-            "panteon_o_coliseo": "Pante\u00f3n del Caballero",
-            "recompensas": 
-                "Amuleto Coraz\u00f3n de Flukenest",
-                "Geo"
+            "poderes": "Invoca Flukes",
+            "panteon_o_coliseo": "Pante del Caballero",
+            "recompensas":"Amuleto Coraz\u00f3n de Flukenest"
+
             
     },
     {
@@ -101,16 +75,9 @@
             "image":"https://static.wikia.nocookie.net/featteca/images/3/39/Maestro_de_Almas.png/revision/latest/scale-to-width-down/1200?cb=20230520231651&path-prefix=es",
             "lugar": "Santuario de Almas",
             "vida": 425,
-            "poderes": 
-                "Orbes de almas",
-                "Teletransportaci\u00f3n",
-                "Golpe descendente"
-            ,
+            "poderes": "Orbes de almas",
             "panteon_o_coliseo": "Pante\u00f3n del Maestro",
-            "recompensas": 
-                "M\u00e1scara Rota",
-                "750 Esencias de Alma"
-            
+            "recompensas": "Rota"     
     },
     {
         "codigo": 1008,
@@ -118,14 +85,10 @@
             "image":"https://static.wikia.nocookie.net/hollowknight/images/d/db/The_Collector_Idle.png/revision/latest/scale-to-width/360?cb=20181128221937",
             "lugar": "Torre del Amor",
             "vida": 800,
-            "poderes": 
-                "Invoca enemigos",
-                "Saltos err\u00e1ticos"
-            ,
+            "poderes": "Invoca enemigos",
             "panteon_o_coliseo": "No aparece",
-            "recompensas": 
-                "Mapa de Grubs",
-                "Geo"
+            "recompensas":"Mapa de Grubs"
+
             
     },
     {
@@ -134,15 +97,9 @@
             "image":"https://static.wikia.nocookie.net/hollowknight/images/2/2c/B_Traitor_Lord.png/revision/latest/scale-to-width/360?cb=20170412201256",
             "lugar": "Jardines de la Reina",
             "vida": 800,
-            "poderes": 
-                "Corte giratorio",
-                "Olas de energ\u00eda"
-            ,
+            "poderes":  "Corte giratorio",
             "panteon_o_coliseo": "Pante\u00f3n del Caballero",
-            "recompensas": 
-                "Marca del Rey",
-                "Geo"
-            
+            "recompensas": "Marca del Rey"
     },
     {
         "codigo": 1010,
@@ -150,16 +107,9 @@
             "image":"https://static.wikia.nocookie.net/hollowknight/images/3/39/Nosk_idle.png/revision/latest?cb=20181218191001",
             "lugar": "Nido Profundo",
             "vida": 880,
-            "poderes": 
-                "Ataque de veneno",
-                "Carga r\u00e1pida",
-                "Salto embestida"
-            ,
+            "poderes": "Ataque de veneno",
             "panteon_o_coliseo": "Pante\u00f3n del Caballero",
-            "recompensas": 
-                "Fragmento de M\u00e1scara",
-                "Geo"
-            
+            "recompensas": "Fragmento de M"
     },
     {
         "codigo": 1011,
@@ -167,15 +117,9 @@
             "image":"https://static.wikia.nocookie.net/hollowknight/images/3/30/B_Broken_Vessel-2.png/revision/latest/scale-to-width/360?cb=20180821144714",
             "lugar": "Profundidades Antiguas",
             "vida": 850,
-            "poderes": 
-                "Golpes con espadas",
-                "Explosi\u00f3n de esporas"
-            ,
+            "poderes":"Golpes con espadas",
             "panteon_o_coliseo": "Pante\u00f3n del Caballero",
-            "recompensas": 
-                "Alma Antigua",
-                "Geo"
-            
+            "recompensas":"Alma Antigua"
     },
     {
         "codigo": 1012,
@@ -183,14 +127,10 @@
             "image":"https://static.wikia.nocookie.net/hollowknight/images/9/9b/B_Watcher_Knight-2.png/revision/latest?cb=20180827012908",
             "lugar": "Torre del Vig\u00eda",
             "vida": 850,
-            "poderes": 
-                "Ataque giratorio",
-                "Carga de espada"
-            ,
+            "poderes":"Ataque giratorio",
             "panteon_o_coliseo": "Pante\u00f3n del Caballero",
-            "recompensas": 
-                "Llave de la Torre",
-                "Geo"
+            "recompensas":"Llave de la Torre"
+
             
     },
     {
@@ -199,14 +139,10 @@
             "image":"https://static.wikia.nocookie.net/hollowknight/images/4/49/B_Uumuu.png/revision/latest?cb=20170412092250",
             "lugar": "Archivo del Maestro",
             "vida": 450,
-            "poderes": 
-                "Rayo el\u00e9ctrico",
-                "Explosi\u00f3n de burbujas"
-            ,
+            "poderes":"Rayo el\u00e9ctrico",
             "panteon_o_coliseo": "Pante\u00f3n del Caballero",
-            "recompensas": 
-                "Acceso a Lurien el Vigilante",
-                "Geo"
+            "recompensas":"Acceso a Lurien el Vigilante"
+
             
     },
     {
@@ -215,15 +151,9 @@
             "image":"https://static.wikia.nocookie.net/hollowknight/images/1/12/B_Hollow_Knight.png/revision/latest/scale-to-width/360?cb=20171202134203&path-prefix=es",
             "lugar": "Templo del Huevo Negro",
             "vida": 1000,
-            "poderes": 
-                "Ataques con aguja",
-                "Explosiones de sombras",
-                "Carga a\u00e9rea"
-            ,
+            "poderes": "Ataques con aguja",
             "panteon_o_coliseo": "Pante\u00f3n de Hallownest",
-            "recompensas": 
-                "Final del juego",
-                "Acceso al Radiance (si tienes la Aguja On\u00edrica)"
+            "recompensas": "Final del juego"
             
     }
     
