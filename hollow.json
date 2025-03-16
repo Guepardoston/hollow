@@ -1,7 +1,7 @@
-{
-    "jefes": [
-        {
-            "nombre": "Falso Caballero",
+[
+    {
+        "codigo": 1001,
+        "nombre": "Falso Caballero",
             "lugar": "Cruces Olvidados",
             "image":"https://static.wikia.nocookie.net/hollowknight/images/c/c2/False_Knight_Icon.png/revision/latest?cb=20171122153703&path-prefix=es",
             "vida": 385,
@@ -17,10 +17,10 @@
                 "Acceso a la Ciudad de L\u00e1grimas"
                  
             ]
-            
-        },
-        {
-            "nombre": "Gruz Mother",
+    },
+    {
+        "codigo": 1002,
+        "nombre": "Gruz Mother",
             "lugar": "Cruces Olvidados",
             "image":"https://static.wikia.nocookie.net/hollowknight/images/b/bc/Gruz_Mother_Awake.png/revision/latest/scale-to-width/360?cb=20181124144430",
             "vida": 300,
@@ -33,25 +33,27 @@
                 "Geo",
                 "Acceso a nuevas \u00e1reas"
             ]
-        },
-        {
-            "nombre": "Mawlek Rencoroso",
-            "image":"https://static.wikia.nocookie.net/hollowknight/images/9/90/B_Lesser_Mawlek.png/revision/latest?cb=20180125123646&path-prefix=es",
-            "lugar": "Tierras Asoladas",
-            "vida": 480,
-            "poderes": [
-                "Escupir \u00e1cido",
-                "Ataque con garras",
-                "Salto r\u00e1pido"
-            ],
-            "panteon_o_coliseo": "No aparece",
-            "recompensas": [
-                "Fragmento de M\u00e1scara",
-                "Geo"
-            ]
-        },
-        {
-            "nombre": "Hornet (Protector)",
+    },
+    {
+        "codigo": 1003,
+        "nombre": "Mawlek Rencoroso",
+        "image":"https://static.wikia.nocookie.net/hollowknight/images/9/90/B_Lesser_Mawlek.png/revision/latest?cb=20180125123646&path-prefix=es",
+        "lugar": "Tierras Asoladas",
+        "vida": 480,
+        "poderes": [
+            "Escupir \u00e1cido",
+            "Ataque con garras",
+            "Salto r\u00e1pido"
+        ],
+        "panteon_o_coliseo": "No aparece",
+        "recompensas": [
+            "Fragmento de M\u00e1scara",
+            "Geo"
+        ]
+    },
+    {
+        "codigo": 1004,
+        "nombre": "Hornet (Protector)",
             "image":"https://static.wikia.nocookie.net/hollowknight/images/1/16/Hornet_Idle.png/revision/latest/scale-to-width/360?cb=20181124144744",
             "lugar": "Sendero Verde",
             "vida": 225,
@@ -64,9 +66,10 @@
             "recompensas": [
                 "Manto del Rey (habilita el Dash Corto)"
             ]
-        },
-        {
-            "nombre": "Defensor del Esti\u00e9rcol",
+    },
+    {
+        "codigo": 1005,
+        "nombre": "Defensor del Esti\u00e9rcol",
             "image":"https://static.wikia.nocookie.net/hollowknight/images/0/0e/B_Dung_Defender.png/revision/latest?cb=20180821144213",
             "lugar": "Cloacas Reales",
             "vida": 700,
@@ -79,9 +82,10 @@
                 "Amuleto del Defensor del Esti\u00e9rcol",
                 "Geo"
             ]
-        },
-        {
-            "nombre": "Flukemarm",
+    },
+    {
+        "codigo": 1006,
+        "nombre": "Flukemarm",
             "image":"https://static.wikia.nocookie.net/hollowknight/images/1/1b/B_Flukemarm.png/revision/latest/scale-to-width/360?cb=20170412131642",
             "lugar": "Cloacas Reales",
             "vida": 450,
@@ -94,9 +98,10 @@
                 "Amuleto Coraz\u00f3n de Flukenest",
                 "Geo"
             ]
-        },
-        {
-            "nombre": "Maestro de Almas",
+    },
+    {
+        "codigo": 1007,
+        "nombre": "Maestro de Almas",
             "image":"https://static.wikia.nocookie.net/featteca/images/3/39/Maestro_de_Almas.png/revision/latest/scale-to-width-down/1200?cb=20230520231651&path-prefix=es",
             "lugar": "Santuario de Almas",
             "vida": 425,
@@ -110,9 +115,10 @@
                 "M\u00e1scara Rota",
                 "750 Esencias de Alma"
             ]
-        },
-        {
-            "nombre": "Coleccionista",
+    },
+    {
+        "codigo": 1008,
+        "nombre": "Coleccionista",
             "image":"https://static.wikia.nocookie.net/hollowknight/images/d/db/The_Collector_Idle.png/revision/latest/scale-to-width/360?cb=20181128221937",
             "lugar": "Torre del Amor",
             "vida": 800,
@@ -125,9 +131,10 @@
                 "Mapa de Grubs",
                 "Geo"
             ]
-        },
-        {
-            "nombre": "Traitor Lord",
+    },
+    {
+        "codigo": 1009,
+        "nombre": "Traitor Lord",
             "image":"https://static.wikia.nocookie.net/hollowknight/images/2/2c/B_Traitor_Lord.png/revision/latest/scale-to-width/360?cb=20170412201256",
             "lugar": "Jardines de la Reina",
             "vida": 800,
@@ -140,9 +147,10 @@
                 "Marca del Rey",
                 "Geo"
             ]
-        },
-        {
-            "nombre": "Nosk",
+    },
+    {
+        "codigo": 1010,
+        "nombre": "Nosk",
             "image":"https://static.wikia.nocookie.net/hollowknight/images/3/39/Nosk_idle.png/revision/latest?cb=20181218191001",
             "lugar": "Nido Profundo",
             "vida": 880,
@@ -156,9 +164,10 @@
                 "Fragmento de M\u00e1scara",
                 "Geo"
             ]
-        },
-        {
-            "nombre": "Vasija Rota",
+    },
+    {
+        "codigo": 1011,
+        "nombre": "Vasija Rota",
             "image":"https://static.wikia.nocookie.net/hollowknight/images/3/30/B_Broken_Vessel-2.png/revision/latest/scale-to-width/360?cb=20180821144714",
             "lugar": "Profundidades Antiguas",
             "vida": 850,
@@ -171,9 +180,10 @@
                 "Alma Antigua",
                 "Geo"
             ]
-        },
-        {
-            "nombre": "Watcher Knights",
+    },
+    {
+        "codigo": 1012,
+        "nombre": "Watcher Knights",
             "image":"https://static.wikia.nocookie.net/hollowknight/images/9/9b/B_Watcher_Knight-2.png/revision/latest?cb=20180827012908",
             "lugar": "Torre del Vig\u00eda",
             "vida": 850,
@@ -186,9 +196,10 @@
                 "Llave de la Torre",
                 "Geo"
             ]
-        },
-        {
-            "nombre": "Uumuu",
+    },
+    {
+        "codigo": 1013,
+        "nombre": "Uumuu",
             "image":"https://static.wikia.nocookie.net/hollowknight/images/4/49/B_Uumuu.png/revision/latest?cb=20170412092250",
             "lugar": "Archivo del Maestro",
             "vida": 450,
@@ -201,9 +212,10 @@
                 "Acceso a Lurien el Vigilante",
                 "Geo"
             ]
-        },
-        {
-            "nombre": "Hollow Knight",
+    },
+    {
+        "codigo": 1014,
+        "nombre": "Hollow Knight",
             "image":"https://static.wikia.nocookie.net/hollowknight/images/1/12/B_Hollow_Knight.png/revision/latest/scale-to-width/360?cb=20171202134203&path-prefix=es",
             "lugar": "Templo del Huevo Negro",
             "vida": 1000,
@@ -217,9 +229,10 @@
                 "Final del juego",
                 "Acceso al Radiance (si tienes la Aguja On\u00edrica)"
             ]
-        }
-    ]
-}
+    }
+    
+      
+]
                 
               
             
